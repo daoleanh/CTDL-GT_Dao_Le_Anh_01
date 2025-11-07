@@ -4,6 +4,15 @@
 #include <iostream>
 #include <iomanip>
 using namespace std;
+/// <summary>
+/// do phuc tap thuat toan cua quicksort
+/// worst case (pivot o phan tu lon nhat hoac nho nhat): T(n) = O(n^2) (do luon phai chay n phan tu moi lan lap)
+/// best case (chia ra 2 mang deu): T(n) = O(n*logn)
+/// decent case (chia ra 2 mang khong qua lech): T(n) = O(n*logn)
+/// </summary>
+/// <param name="arr"></param>
+/// <param name="first"></param>
+/// <param name="last"></param>
 void partitionfunc(int arr[], int first, int last) {
     if (first >= last) return;
 
