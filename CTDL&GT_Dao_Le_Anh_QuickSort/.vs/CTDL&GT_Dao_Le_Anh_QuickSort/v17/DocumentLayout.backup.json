@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Le Anh\\Downloads\\stanford\\CTDL-GT_Dao_Le_Anh_01\\CTDL\u0026GT_Dao_Le_Anh_QuickSort\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE4AABC-9A76-438C-908D-C0917C0C1C8F}|CTDL\u0026GT_Dao_Le_Anh_QuickSort\\CTDL\u0026GT_Dao_Le_Anh_QuickSort.vcxproj|C:\\Users\\Le Anh\\Downloads\\stanford\\CTDL-GT_Dao_Le_Anh_01\\CTDL\u0026GT_Dao_Le_Anh_QuickSort\\CTDL\u0026GT_Dao_Le_Anh_QuickSort\\CTDL\u0026GT_Dao_Le_Anh_QuickSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BFE4AABC-9A76-438C-908D-C0917C0C1C8F}|CTDL\u0026GT_Dao_Le_Anh_QuickSort\\CTDL\u0026GT_Dao_Le_Anh_QuickSort.vcxproj|solutionrelative:CTDL\u0026GT_Dao_Le_Anh_QuickSort\\CTDL\u0026GT_Dao_Le_Anh_QuickSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CTDL\u0026GT_Dao_Le_Anh_QuickSort.cpp",
+              "DocumentMoniker": "C:\\Users\\Le Anh\\Downloads\\stanford\\CTDL-GT_Dao_Le_Anh_01\\CTDL\u0026GT_Dao_Le_Anh_QuickSort\\CTDL\u0026GT_Dao_Le_Anh_QuickSort\\CTDL\u0026GT_Dao_Le_Anh_QuickSort.cpp",
+              "RelativeDocumentMoniker": "CTDL\u0026GT_Dao_Le_Anh_QuickSort\\CTDL\u0026GT_Dao_Le_Anh_QuickSort.cpp",
+              "ToolTip": "C:\\Users\\Le Anh\\Downloads\\stanford\\CTDL-GT_Dao_Le_Anh_01\\CTDL\u0026GT_Dao_Le_Anh_QuickSort\\CTDL\u0026GT_Dao_Le_Anh_QuickSort\\CTDL\u0026GT_Dao_Le_Anh_QuickSort.cpp*",
+              "RelativeToolTip": "CTDL\u0026GT_Dao_Le_Anh_QuickSort\\CTDL\u0026GT_Dao_Le_Anh_QuickSort.cpp*",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAwDAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-29T12:37:25.637Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

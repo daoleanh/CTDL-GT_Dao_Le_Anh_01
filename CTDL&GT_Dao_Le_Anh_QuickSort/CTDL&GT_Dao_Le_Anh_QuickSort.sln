@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36616.10 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CTDL&GT_Dao_Le_Anh_QuickSort", "CTDL&GT_Dao_Le_Anh_QuickSort\CTDL&GT_Dao_Le_Anh_QuickSort.vcxproj", "{BFE4AABC-9A76-438C-908D-C0917C0C1C8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFE4AABC-9A76-438C-908D-C0917C0C1C8F}.Debug|x64.ActiveCfg = Debug|x64
+		{BFE4AABC-9A76-438C-908D-C0917C0C1C8F}.Debug|x64.Build.0 = Debug|x64
+		{BFE4AABC-9A76-438C-908D-C0917C0C1C8F}.Debug|x86.ActiveCfg = Debug|Win32
+		{BFE4AABC-9A76-438C-908D-C0917C0C1C8F}.Debug|x86.Build.0 = Debug|Win32
+		{BFE4AABC-9A76-438C-908D-C0917C0C1C8F}.Release|x64.ActiveCfg = Release|x64
+		{BFE4AABC-9A76-438C-908D-C0917C0C1C8F}.Release|x64.Build.0 = Release|x64
+		{BFE4AABC-9A76-438C-908D-C0917C0C1C8F}.Release|x86.ActiveCfg = Release|Win32
+		{BFE4AABC-9A76-438C-908D-C0917C0C1C8F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBB879A5-9075-4EB7-BDE6-1585E6081B70}
+	EndGlobalSection
+EndGlobal
