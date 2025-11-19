@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Le Anh\\Downloads\\stanford\\CTDL-GT_Dao_Le_Anh_01\\class_11-7-2025\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BCE49342-9574-493E-BCC8-A32141811875}|class_11-7-2025\\class_11-7-2025.vcxproj|C:\\Users\\Le Anh\\Downloads\\stanford\\CTDL-GT_Dao_Le_Anh_01\\class_11-7-2025\\class_11-7-2025\\class_11-7-2025.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BCE49342-9574-493E-BCC8-A32141811875}|class_11-7-2025\\class_11-7-2025.vcxproj|solutionrelative:class_11-7-2025\\class_11-7-2025.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "class_11-7-2025.cpp",
+              "DocumentMoniker": "C:\\Users\\Le Anh\\Downloads\\stanford\\CTDL-GT_Dao_Le_Anh_01\\class_11-7-2025\\class_11-7-2025\\class_11-7-2025.cpp",
+              "RelativeDocumentMoniker": "class_11-7-2025\\class_11-7-2025.cpp",
+              "ToolTip": "C:\\Users\\Le Anh\\Downloads\\stanford\\CTDL-GT_Dao_Le_Anh_01\\class_11-7-2025\\class_11-7-2025\\class_11-7-2025.cpp",
+              "RelativeToolTip": "class_11-7-2025\\class_11-7-2025.cpp",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAUwHAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-07T08:20:34.276Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
