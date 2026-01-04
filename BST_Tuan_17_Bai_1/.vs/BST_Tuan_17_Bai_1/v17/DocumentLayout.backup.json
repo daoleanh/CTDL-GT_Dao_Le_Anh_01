@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Le Anh\\Downloads\\stanford\\CTDL-GT_Dao_Le_Anh_01\\BST_Tuan_17_Bai_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2FF978-DA7F-4C03-BAF6-6730BB6A8471}|BST_Tuan_17_Bai_1\\BST_Tuan_17_Bai_1.vcxproj|C:\\Users\\Le Anh\\Downloads\\stanford\\CTDL-GT_Dao_Le_Anh_01\\BST_Tuan_17_Bai_1\\BST_Tuan_17_Bai_1\\BST_Tuan_17_Bai_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DD2FF978-DA7F-4C03-BAF6-6730BB6A8471}|BST_Tuan_17_Bai_1\\BST_Tuan_17_Bai_1.vcxproj|solutionrelative:BST_Tuan_17_Bai_1\\BST_Tuan_17_Bai_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BST_Tuan_17_Bai_1.cpp",
+              "DocumentMoniker": "C:\\Users\\Le Anh\\Downloads\\stanford\\CTDL-GT_Dao_Le_Anh_01\\BST_Tuan_17_Bai_1\\BST_Tuan_17_Bai_1\\BST_Tuan_17_Bai_1.cpp",
+              "RelativeDocumentMoniker": "BST_Tuan_17_Bai_1\\BST_Tuan_17_Bai_1.cpp",
+              "ToolTip": "C:\\Users\\Le Anh\\Downloads\\stanford\\CTDL-GT_Dao_Le_Anh_01\\BST_Tuan_17_Bai_1\\BST_Tuan_17_Bai_1\\BST_Tuan_17_Bai_1.cpp",
+              "RelativeToolTip": "BST_Tuan_17_Bai_1\\BST_Tuan_17_Bai_1.cpp",
+              "ViewState": "AgIAAOAAAAAAAAAAAAAiwOkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-04T10:10:45.052Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
